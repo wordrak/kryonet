@@ -10,7 +10,7 @@
   <repositories>
     <repository>
       <id>wordrak</id>
-      <url>http://wordrak.github.com/repo</url>
+      <url>http://github.com/wordrak/repo</url>
     </repository>
   </repositories>
 
